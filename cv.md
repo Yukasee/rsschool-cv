@@ -21,3 +21,12 @@ function y (x,z) {
 let result = y(3,17);
 return result;
 ```
+# Education
+* **Moscow State University of Technology STANKIN**
+    + Technology and Equipment of Machine Building Enterprises
+* **LinkedIn Learning**
+    + [Basics of JavaScript](https://www.linkedin.com/learning/javascript-essential-training)
+# Languages
+* **Russian:** native speaker
+* **Ukraininan:** native speaker
+* **English:** fluent

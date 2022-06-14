@@ -73,13 +73,19 @@ header h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
+
+#code
+{
+  background-color: lightgrey;
+  width: 30%;
+}
 footer {
   display:flex;
-  position:absolute;
-  bottom:0;
+  position:fixed;
+  bottom:0px;
   left: 0;
   width:100%;
-  height:60px;   /* Height of the footer */
+  height:80px;   /* Height of the footer */
   background:#6cf;
 }
 footer p {
@@ -88,9 +94,7 @@ footer p {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   font-size: 40px;
-  position: relative;
-  left: 500;
-  top: 0;
+  
 }
 footer a {
   color: white;
@@ -108,7 +112,7 @@ footer a {
 #ghub {
   position:fixed;
   right: 50%;
-  bottom: 0px;
+  bottom: 20px;
 }
 #rslogo {
   position:fixed;

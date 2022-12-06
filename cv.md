@@ -13,7 +13,6 @@ Currently studying Frontend Development to change my career.
 * CSS
 * Basic knowledge of C++, PHP, and SQL
 * Adobe Photoshop, InDesign
-* 
 # Code Example
 ```
 function y (x,z) {

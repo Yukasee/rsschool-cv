@@ -1,1 +1,1 @@
-[Link](https://Yukasee.io/rsschool-cv/)
+[([https://Yukasee.io/rsschool-cv/)](https://GITHUB-USERNAME.github.io/rsschool-cv/)](https://GITHUB-USERNAME.github.io/rsschool-cv/)

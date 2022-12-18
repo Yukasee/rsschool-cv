@@ -1,0 +1,128 @@
+body {
+  background-color: lightblue;
+}
+header img {
+  position: relative;
+  top: 50px;
+  left: 300px;
+}
+header h1 {
+  padding: 6px 8px 6px 16px;
+  color: rgb(37, 46, 228); 
+  font-family: Felix titling;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: justify;
+  margin-left: 300px;
+  margin-top: 50px;
+}
+.sidenav {
+  width: 250px;
+  position: fixed;
+  z-index: 1; /* Stay on top */
+  top: 350px; 
+  left: 0;
+  background-color: rgb(37, 46, 228); 
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav p {
+  padding: 6px 8px 6px 16px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  
+}
+.sidenav h2 {
+  padding: 6px 8px 6px 16px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+}
+.main {
+  margin-left: 250px; /* Same as the width of the sidebar */
+  margin-top: auto;
+  padding: 0px 10px;
+}
+.main h2 {
+  padding: 6px 8px 6px 16px;
+  color: rgb(26, 7, 169);
+  text-align:justify;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  position: ;
+}
+
+.main p {
+  padding: 6px 8px 6px 16px;
+  color: purple;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.main li {
+  padding: 6px 8px 6px 16px;
+  color: purple;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#code
+{
+  background-color: lightgrey;
+  width: 30%;
+}
+
+footer {
+  display:flex;
+  position:fixed;
+  bottom:0px;
+  left: 0;
+  width:100%;
+  height:80px;   /* Height of the footer */
+  background:#6cf;
+}
+
+footer p {
+  
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+footer a {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+ 
+}
+
+#year
+{
+  position:fixed;
+  left: 50px;
+  bottom: -30px;
+}
+
+#ghub {
+  position:fixed;
+  right: 50%;
+  bottom: 20px;
+}
+
+#rslogo {
+  position:fixed;
+  right: 0;
+}

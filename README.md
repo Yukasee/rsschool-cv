@@ -1,1 +1,1 @@
-[Link](https://Yukasee.github.io/rsschool-cv/)
+[Link](https://Yukasee.io/rsschool-cv/)

@@ -1,0 +1,31 @@
+*,*:before,*after {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-family: 'sans-serif;';
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+}
+
+.header {
+	background-color: white;
+}
+
+.header {
+	background-color: white;
+}
+
+.header__wrapper {
+	height: 100px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
